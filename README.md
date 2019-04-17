@@ -1,2 +1,3 @@
 # helloworld
-just a another fucking day.
+just a new fucking day.
+No Pain,No Again.
